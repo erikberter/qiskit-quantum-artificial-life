@@ -6,3 +6,5 @@ El documento **simulation.ipynb** contiene de forma visual todos los metodos par
 
 
 ![circuit1](img/circuit.png)
+
+El archivo **artlife.py** es el archivo en python que funciona como modulo para importar las funciones de creacion de circuitos a proyectos propios.
